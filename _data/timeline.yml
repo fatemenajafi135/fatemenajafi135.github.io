@@ -5,9 +5,20 @@
 # > tags: List of tags you want to associate with the entry
 # > timeline-side: The side on which you want to display the entry: left or right
 
+- title: Part AI Research Center
+  title-url: https://partdp.ai/en
+  date: Apr 2023 - Present
+  subtitle: NLP Data Scientist
+  tags:
+    - tag: Data Science
+    - tag: Natural Language Processing
+    - tag: Python
+    - tag: LLMs
+  timeline-side: left
+  
 - title: dadmatech
   title-url: https://dadmatech.ir/
-  date: Oct 2021 - Present
+  date: Oct 2021 - Mar 2023
   subtitle: Data Scientist
   tags:
     - tag: Data Science
@@ -25,5 +36,5 @@
   title-url: https://khu.ac.ir/
   date: 2014 - 2019
   subtitle: B.S. Computer Science (Data Mining)
-  timeline-side: left
+  timeline-side: right
 
